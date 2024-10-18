@@ -1,1 +1,3 @@
 src/cfehome/__pycache__/*
+src/visits/__pycache__/*
+src/visits/migrations/__pycache__/*
