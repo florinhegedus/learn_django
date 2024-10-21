@@ -38,3 +38,6 @@ python manage.py makemigrations
 python manage.py migrate
 ```
 
+## Technologies
+django, postgresql, neon, railway, tailwindcss, flowbite
+

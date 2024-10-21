@@ -4,3 +4,4 @@ src/visits/migrations/__pycache__/*
 src/db.sqlite3
 .vscode\launch.json
 .env
+src/staticfiles/vendors/*
