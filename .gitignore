@@ -3,3 +3,4 @@ src/visits/__pycache__/*
 src/visits/migrations/__pycache__/*
 src/db.sqlite3
 .vscode\launch.json
+.env
