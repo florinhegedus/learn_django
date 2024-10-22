@@ -5,3 +5,4 @@ src/db.sqlite3
 .vscode/*
 .env
 src/staticfiles/vendors/*
+local-cdn/
